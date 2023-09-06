@@ -12,7 +12,7 @@ Advertisement Services:
 
 The App includes advertisements served by Unity Ads, an advertising platform provided by Unity Technologies. Unity Ads may collect certain device-related data, including but not limited to the device's advertising identifier (IDFA or AAID), IP address, and general location information, for the purpose of delivering targeted advertisements. Please note that this data collection is governed by Unity Technologies' privacy policy, and we encourage you to review their policy for more information:
 
-Unity Technologies Privacy Policy: https://unity.com/legal/privacy-policy
+Unity Technologies Privacy Policy: unity.com/legal/privacy-policy
 
 Third-Party Links:
 
